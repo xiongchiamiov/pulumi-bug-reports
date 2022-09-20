@@ -2,4 +2,4 @@
 
 import ecs_task_definition
 
-ecs_task_definition.unused_resource_name()
+ecs_task_definition.cannot_change_arn()
